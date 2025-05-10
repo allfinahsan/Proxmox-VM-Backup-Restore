@@ -27,3 +27,12 @@ This project documents how I backed up and restored virtual machines using **Pro
 - Automate backup job monitoring
 - Sync backups offsite via rclone
 - Integrate Grafana for monitoring metrics
+
+
+## 📸 Screenshots
+
+### 🖥️ Proxmox Dashboard
+![Proxmox Dashboard](./screenshots/proxmox-dashboard.png)
+
+### 💾 PBS Backup Server – Job Overview
+![PBS Dashboard](./screenshots/pbs-dashboard.png)
